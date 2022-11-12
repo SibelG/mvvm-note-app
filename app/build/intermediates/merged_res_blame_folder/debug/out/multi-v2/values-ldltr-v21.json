@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bersyte.noteapp-mergeDebugResources-49:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\caches\\transforms-3\\7662e1adffd5be824c75de5963e61847\\transformed\\appcompat-1.2.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

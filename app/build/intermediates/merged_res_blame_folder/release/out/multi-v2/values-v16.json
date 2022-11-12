@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bersyte.noteapp-mergeReleaseResources-48:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\caches\\transforms-3\\7662e1adffd5be824c75de5963e61847\\transformed\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\caches\\transforms-3\\c15ea0d8e6ab0e1e2e657f967ee1bb90\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

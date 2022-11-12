@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\daemon\\7.3.3\\com.bersyte.noteapp-mergeDebugResources-50:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\daemon\\7.3.3\\com.bersyte.noteapp-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\daemon\\7.3.3\\com.bersyte.noteapp-mergeDebugResources-50:\\layout\\note_layout_adapter.xml",
+        "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\daemon\\7.3.3\\com.bersyte.noteapp-main-53:\\layout\\note_layout_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\daemon\\7.3.3\\com.bersyte.noteapp-mergeDebugResources-50:\\layout\\fragment_new_note.xml",
+        "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\daemon\\7.3.3\\com.bersyte.noteapp-main-53:\\layout\\fragment_new_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\daemon\\7.3.3\\com.bersyte.noteapp-mergeDebugResources-50:\\layout\\fragment_update_note.xml",
+        "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\daemon\\7.3.3\\com.bersyte.noteapp-main-53:\\layout\\fragment_update_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\daemon\\7.3.3\\com.bersyte.noteapp-mergeDebugResources-50:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\daemon\\7.3.3\\com.bersyte.noteapp-main-53:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-mergeDebugResources-50:/layout/fragment_new_note.xml",
+        "source": "com.bersyte.noteapp-main-53:/layout/fragment_new_note.xml"
+    }
+]

@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.bersyte.noteapp.fragments.HomeFragmentDirections","com.bersyte.noteapp.fragments.NewNoteFragmentDirections","com.bersyte.noteapp.fragments.UpdateNoteFragmentDirections","com.bersyte.noteapp.fragments.UpdateNoteFragmentArgs"]}]
