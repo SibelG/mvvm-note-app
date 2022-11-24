@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.bersyte.noteapp-mergeReleaseResources-49:/layout/fragment_new_note.xml",
+        "source": "com.bersyte.noteapp-main-51:/layout/fragment_new_note.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-mergeReleaseResources-49:/layout/fragment_update_note.xml",
+        "source": "com.bersyte.noteapp-main-51:/layout/fragment_update_note.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-mergeReleaseResources-49:/layout/fragment_home.xml",
+        "source": "com.bersyte.noteapp-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-mergeReleaseResources-49:/layout/note_layout_adapter.xml",
+        "source": "com.bersyte.noteapp-main-51:/layout/note_layout_adapter.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-mergeReleaseResources-49:/layout/activity_main.xml",
+        "source": "com.bersyte.noteapp-main-51:/layout/activity_main.xml"
+    }
+]

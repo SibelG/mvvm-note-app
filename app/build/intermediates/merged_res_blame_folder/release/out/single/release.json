@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/layout_fragment_update_note.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/layout/fragment_update_note.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable_ic_done.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable/ic_done.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/menu_menu_new_note.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/menu/menu_new_note.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable-v24_round_corner_shape.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable-v24/round_corner_shape.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable-anydpi-v24_ic_more.xml.flat",
+        "source": "com.bersyte.noteapp-pngs-45:/drawable-anydpi-v24/ic_more.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable-v24_ic_baseline_check_circle_24.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable-v24/ic_baseline_check_circle_24.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bersyte.noteapp-main-51:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable-v24_ic_back.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable-v24/ic_back.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/anim_slide_out_right.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/anim_slide_in_right.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/anim_slide_in_left.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable_ic_add.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.bersyte.noteapp-pngs-45:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable-v24_ic_search.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable-v24/ic_search.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bersyte.noteapp-main-51:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/anim_slide_in_up.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bersyte.noteapp-main-51:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable_ic_search_black_24dp.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/anim_slide_out_up.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bersyte.noteapp-main-51:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable-v24_ic_cancel.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable-v24/ic_cancel.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable-v24_search_view_shape.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable-v24/search_view_shape.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/layout_note_layout_adapter.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/layout/note_layout_adapter.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/anim_slide_out_left.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/navigation_nav_graph.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/menu_home_menu.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/menu/home_menu.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/layout_fragment_new_note.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/layout/fragment_new_note.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/layout_fragment_home.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable_ic_delete.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bersyte.noteapp-main-51:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/menu_menu_update_note.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/menu/menu_update_note.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.bersyte.noteapp-merged_res-50:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.bersyte.noteapp-main-51:/drawable/ic_baseline_arrow_back_24.xml"
+    }
+]
