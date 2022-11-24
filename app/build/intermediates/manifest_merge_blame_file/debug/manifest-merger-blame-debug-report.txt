@@ -6,188 +6,188 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml
+8-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml
+9-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.REORDER_TASKS" /> <!-- Permission will be merged into the manifest of the hosting app. -->
-11-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:25:5-72
-11-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:25:22-69
+11-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:25:5-72
+11-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:25:22-69
 12    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
 13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-13-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:13:5-77
-13-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:13:22-74
+13-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:13:5-77
+13-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:13:22-74
 14
 15    <application
-15-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:6:5-21:19
+15-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:6:5-21:19
 16        android:allowBackup="true"
-16-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:7:9-35
+16-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:7:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-17-->[androidx.core:core:1.8.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\c15ea0d8e6ab0e1e2e657f967ee1bb90\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+17-->[androidx.core:core:1.8.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\c15ea0d8e6ab0e1e2e657f967ee1bb90\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 18        android:debuggable="true"
 19        android:extractNativeLibs="false"
-20        android:icon="@mipmap/ic_launcher"
-20-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:8:9-43
+20        android:icon="@mipmap/ic_launcher_foreground"
+20-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:8:9-54
 21        android:label="@string/app_name"
-21-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:9:9-41
-22        android:roundIcon="@mipmap/ic_launcher_round"
-22-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:10:9-54
+21-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:9:9-41
+22        android:roundIcon="@mipmap/ic_launcher_foreground"
+22-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:10:9-59
 23        android:supportsRtl="true"
-23-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:11:9-35
+23-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:11:9-35
 24        android:testOnly="true"
 25        android:theme="@style/Theme.NoteApp" >
-25-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:12:9-45
+25-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:12:9-45
 26        <activity
-26-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:14:9-20:20
+26-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:14:9-20:20
 27            android:name="com.bersyte.noteapp.MainActivity"
-27-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:14:19-47
+27-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:14:19-47
 28            android:exported="true" >
-28-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:15:13-36
+28-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:15:13-36
 29            <intent-filter>
-29-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:16:13-19:29
+29-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:16:13-19:29
 30                <action android:name="android.intent.action.MAIN" />
-30-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:17:17-69
-30-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:17:25-66
+30-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:17:17-69
+30-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:17:25-66
 31
 32                <category android:name="android.intent.category.LAUNCHER" />
-32-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:18:17-77
-32-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:18:27-74
+32-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:18:17-77
+32-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:18:27-74
 33            </intent-filter>
 34        </activity>
 35        <activity
-35-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:28:9-37:20
+35-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:28:9-37:20
 36            android:name="androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity"
-36-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:29:13-96
+36-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:29:13-96
 37            android:exported="true"
-37-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:30:13-36
+37-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:30:13-36
 38            android:multiprocess="true"
-38-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:31:13-40
+38-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:31:13-40
 39            android:taskAffinity=""
-39-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:32:13-36
+39-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:32:13-36
 40            android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme" >
-40-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:33:13-78
+40-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:33:13-78
 41            <intent-filter>
-41-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:34:13-36:29
+41-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:34:13-36:29
 42                <action android:name="android.intent.action.MAIN" />
-42-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:17:17-69
-42-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:17:25-66
+42-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:17:17-69
+42-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:17:25-66
 43            </intent-filter>
 44        </activity>
 45
 46        <uses-library
-46-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+46-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
 47            android:name="androidx.window.extensions"
-47-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+47-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
 48            android:required="false" />
-48-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+48-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
 49        <uses-library
-49-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+49-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
 50            android:name="androidx.window.sidecar"
-50-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+50-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
 51            android:required="false" />
-51-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+51-->[androidx.window:window:1.0.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\eb7f989a8f46fd82a87e00515f4fb033\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
 52
 53        <service
-53-->[androidx.room:room-runtime:2.4.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\28c74800b8e79d56af0f3daf5aaede2e\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
+53-->[androidx.room:room-runtime:2.4.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\28c74800b8e79d56af0f3daf5aaede2e\transformed\room-runtime-2.4.3\AndroidManifest.xml:25:9-28:40
 54            android:name="androidx.room.MultiInstanceInvalidationService"
-54-->[androidx.room:room-runtime:2.4.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\28c74800b8e79d56af0f3daf5aaede2e\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
+54-->[androidx.room:room-runtime:2.4.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\28c74800b8e79d56af0f3daf5aaede2e\transformed\room-runtime-2.4.3\AndroidManifest.xml:26:13-74
 55            android:directBootAware="true"
-55-->[androidx.room:room-runtime:2.4.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\28c74800b8e79d56af0f3daf5aaede2e\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
+55-->[androidx.room:room-runtime:2.4.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\28c74800b8e79d56af0f3daf5aaede2e\transformed\room-runtime-2.4.3\AndroidManifest.xml:27:13-43
 56            android:exported="false" />
-56-->[androidx.room:room-runtime:2.4.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\28c74800b8e79d56af0f3daf5aaede2e\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
+56-->[androidx.room:room-runtime:2.4.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\28c74800b8e79d56af0f3daf5aaede2e\transformed\room-runtime-2.4.3\AndroidManifest.xml:28:13-37
 57
 58        <activity
-58-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
+58-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:27:9-34:20
 59            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
-59-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
+59-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:28:13-99
 60            android:exported="true"
-60-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
+60-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:29:13-36
 61            android:theme="@android:style/Theme" >
-61-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
+61-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:30:13-49
 62            <intent-filter>
-62-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:34:13-36:29
+62-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:34:13-36:29
 63                <action android:name="android.intent.action.MAIN" />
-63-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:17:17-69
-63-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:17:25-66
+63-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:17:17-69
+63-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:17:25-66
 64            </intent-filter>
 65        </activity>
 66        <activity
-66-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
+66-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:35:9-42:20
 67            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
-67-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
+67-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:36:13-95
 68            android:exported="true"
-68-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
+68-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:37:13-36
 69            android:theme="@android:style/Theme" >
-69-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
+69-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:38:13-49
 70            <intent-filter>
-70-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:34:13-36:29
+70-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:34:13-36:29
 71                <action android:name="android.intent.action.MAIN" />
-71-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:17:17-69
-71-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:17:25-66
+71-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:17:17-69
+71-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:17:25-66
 72            </intent-filter>
 73        </activity>
 74        <activity
-74-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
+74-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:43:9-50:20
 75            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
-75-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
+75-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:44:13-103
 76            android:exported="true"
-76-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
+76-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:45:13-36
 77            android:theme="@android:style/Theme.Dialog" >
-77-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
+77-->[androidx.test:core:1.4.0] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\69c8a6b05071de290c3f07094c4d61f3\transformed\jetified-core-1.4.0\AndroidManifest.xml:46:13-56
 78            <intent-filter>
-78-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:34:13-36:29
+78-->[androidx.fragment:fragment-testing:1.5.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\764b1095dadf58994a121c8cbce48d62\transformed\jetified-fragment-testing-1.5.3\AndroidManifest.xml:34:13-36:29
 79                <action android:name="android.intent.action.MAIN" />
-79-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:17:17-69
-79-->C:\Users\sblgn\Downloads\mvvm_note_app_kotlin_android_studio-master\app\src\main\AndroidManifest.xml:17:25-66
+79-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:17:17-69
+79-->C:\Users\sblgn\Documents\mvvm-note-app\app\src\main\AndroidManifest.xml:17:25-66
 80            </intent-filter>
 81        </activity> <!-- The activities will be merged into the manifest of the hosting app. -->
 82        <activity
-82-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:18:9-24:45
+82-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:18:9-24:45
 83            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
-83-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:19:13-100
+83-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:19:13-100
 84            android:enabled="false"
-84-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:20:13-36
+84-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:20:13-36
 85            android:exported="false"
-85-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:21:13-37
+85-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:21:13-37
 86            android:launchMode="singleInstance"
-86-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:22:13-48
+86-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:22:13-48
 87            android:process=":playcore_missing_splits_activity"
-87-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:23:13-64
+87-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:23:13-64
 88            android:stateNotNeeded="true" />
-88-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:24:13-42
+88-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:24:13-42
 89        <activity
-89-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:25:9-29:65
+89-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:25:9-29:65
 90            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
-90-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:26:13-93
+90-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:26:13-93
 91            android:exported="false"
-91-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:27:13-37
+91-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:27:13-37
 92            android:stateNotNeeded="true"
-92-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:28:13-42
+92-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:28:13-42
 93            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
-93-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:29:13-62
+93-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:29:13-62
 94        <service
-94-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:32:9-39:19
+94-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:32:9-39:19
 95            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
-95-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:33:13-94
+95-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:33:13-94
 96            android:enabled="false"
-96-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:34:13-36
+96-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:34:13-36
 97            android:exported="true" >
-97-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:35:13-36
+97-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:35:13-36
 98            <meta-data
-98-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:36:13-38:41
+98-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:36:13-38:41
 99                android:name="com.google.android.play.core.assetpacks.versionCode"
-99-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:37:17-83
+99-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:37:17-83
 100                android:value="11003" />
-100-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:38:17-38
+100-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:38:17-38
 101        </service>
 102        <service
-102-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:40:9-43:40
+102-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:40:9-43:40
 103            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
-103-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:41:13-95
+103-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:41:13-95
 104            android:enabled="false"
-104-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:42:13-36
+104-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:42:13-36
 105            android:exported="false" />
-105-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-all\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:43:13-37
+105-->[com.google.android.play:core:1.10.3] C:\Users\sblgn\.gradle\wrapper\dists\gradle-7.3.3-bin\caches\transforms-3\379fb43006d06d40d0a495ad51af5da6\transformed\jetified-core-1.10.3\AndroidManifest.xml:43:13-37
 106    </application>
 107
 108</manifest>

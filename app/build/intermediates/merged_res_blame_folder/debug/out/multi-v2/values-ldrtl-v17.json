@@ -4,7 +4,7 @@
             "outputFile": "com.bersyte.noteapp-mergeDebugResources-49:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\caches\\transforms-3\\c1d7af1a7ddfdac8f0af1d90a2e07291\\transformed\\material-1.4.0-beta01\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-bin\\caches\\transforms-3\\c1d7af1a7ddfdac8f0af1d90a2e07291\\transformed\\material-1.4.0-beta01\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

@@ -1123,6 +1123,7 @@ color foreground_material_light
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color hintColor
+color ic_launcher_background
 color material_blue_grey_800
 color material_blue_grey_900
 color material_blue_grey_950
@@ -2477,8 +2478,7 @@ layout text_view_without_line_height
 menu home_menu
 menu menu_new_note
 menu menu_update_note
-mipmap ic_launcher
-mipmap ic_launcher_round
+mipmap ic_launcher_foreground
 navigation nav_graph
 plurals mtrl_badge_content_description
 raw keep

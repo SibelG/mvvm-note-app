@@ -4,7 +4,7 @@
             "outputFile": "com.bersyte.noteapp-mergeDebugResources-49:/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-all\\caches\\transforms-3\\7662e1adffd5be824c75de5963e61847\\transformed\\appcompat-1.2.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\sblgn\\.gradle\\wrapper\\dists\\gradle-7.3.3-bin\\caches\\transforms-3\\7662e1adffd5be824c75de5963e61847\\transformed\\appcompat-1.2.0\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",
